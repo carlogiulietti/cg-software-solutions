@@ -1,2 +1,5 @@
-# cg-software-solutions
-Website for CG Software Solutions LLC, developer of Nutrition Mate.
+**CG Software Solutions LLC**
+
+Developer of Nutrition Mate – a simple macro tracking app.
+
+Contact: 	cgsoftwaresolutionsllc@gmail.com
